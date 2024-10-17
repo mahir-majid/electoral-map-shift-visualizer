@@ -39,11 +39,7 @@ https://www.kaggle.com/datasets/anandhuh/population-data-usa
 
 Programming Languages: Python
 
-Libraries:
-Matplotlib
-NumPy
-Pandas
-Scikit-learn
+Libraries: Matplotlib, NumPy, Pandas, Scikit-learn
 
 
 
