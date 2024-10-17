@@ -12,7 +12,7 @@ vote change were plotted.
 Explanation of Computing Apportionment using the Method of Equal Proportions: The total amount of electoral votes is 538. The District of Columbia (Washington D.C.) 
 is automatically granted 3 electoral votes as per Amendment 23, leaving only 535 electoral votes remaining. As all of the 50 states are guarenteed to have 
 2 senators each, another 100 electoral votes is deducted from the total leading to 435 electoral votes remaining. Each state is also guarenteed to have at least 
-1 House of Representative, leading to another 50 electoral votes being deducted leading to only 385 electoral votes left. The remaining 385 electoral votes are 
+1 House of Representative, leading to another 50 electoral votes being deducted with only 385 electoral votes left. The remaining 385 electoral votes are 
 distibuted through the Method of Equal Proportions which entails calculating the priority value of a state to gain another seat based on the number of seats it 
 currently has, and granting a seat to the state with the greatest priority.
 
