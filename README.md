@@ -1,4 +1,4 @@
-Project Name: Electoral Map Evolution Visualizer
+Project Name: Electoral Map Shift Visualizer
 
 Overview: The purpose of this project is to predict how electoral votes for each state are going to change from 2020 to 2030. To achieve this, two Kaggle datasets were
 used including a dataset containing U.S. state populations from 1900 to 2017, and another dataset containing U.S. state populations for 2020. These two datasets were
