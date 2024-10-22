@@ -20,7 +20,7 @@ The formula for calculating priority is as follows -> Priority = P / √(n * (n 
 Representative that the state is targetting. A max-oriented priority queue was created to effectively track the state with the greatest priority and a dictionary
 was created to store  the number of electoral votes that each state has. Each state initially started out with 3 electoral votes (2 Senates and 1 House of Representative).
 After granting each state 1 free seat, each state is added to the priority queue with n being set to 2 for each state since each state is now targetting a second seat in 
-the House of Representataives. In this project, a for loop was implemented to distribute the remaining 385 electoral votes where state with the greatest priority was 
+the House of Representataives. In this project, a for loop was implemented to distribute the remaining 385 electoral votes where the state with the greatest priority was 
 popped from the queue and the dictionary made the apropriate increment to the state's number of electoral votes while also decrementing the remaining amount of seats 
 left to distribute by 1 during each iteration. Thus, at the end of the for loop, the dictionary stored the approximate number of electoral votes that each state
 will have in 2030 along with Washington D.C.'s 3 electoral votes, which all sum up to the original total of 538 electoral votes.
