@@ -2,7 +2,10 @@ Project Name: Electoral Map Shift Visualizer
 
 Overview: The purpose of this project is to predict how electoral votes for each state are going to change from 2020 to 2030, and plot the states that have a non-zero change. 
 
-To achieve this, two Kaggle datasets were used including a dataset containing U.S. state populations from 1900 to 2017, and another dataset containing U.S. state populations 
+**Results**
+![Demo](results/results_1.png)
+
+For this project, two Kaggle datasets were used including a dataset containing U.S. state populations from 1900 to 2017, and another dataset containing U.S. state populations 
 for 2020. These two datasets were merged to form a DataFrame containing U.S. state populations from 1970 to 2020 for every five years. Then, a polynomial regression of degree 2 
 was applied to the DataFrame to make predictions of the population for each state in 2030. These predicted populations were then processed through the Method of Equal Proportions 
 to estimate how the 538 electoral votes would be distributed in 2030, and the results were stored in a dictionary. Then, another dictionary to track the difference in electoral 
