@@ -4,6 +4,7 @@ Overview: The purpose of this project is to predict how electoral votes for each
 
 **Results**
 ![Demo](results/results_1.png)
+![](results/results_2.png)
 
 For this project, two Kaggle datasets were used including a dataset containing U.S. state populations from 1900 to 2017, and another dataset containing U.S. state populations 
 for 2020. These two datasets were merged to form a DataFrame containing U.S. state populations from 1970 to 2020 for every five years. Then, a polynomial regression of degree 2 
